@@ -1,0 +1,5 @@
+python >= 3.10
+numpy >= 1.24.3
+open-CV >= 4.7.0
+pytorch >= 2.0.1+cpu
+ultralytics>= 8.0.118
